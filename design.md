@@ -39,6 +39,10 @@ Footer button (when hovered): #b83f45
 
 ## Fonts
 
+### Style
+
+Roboto: https://fonts.google.com/specimen/Roboto
+
 ### Header text
 
 ```css
