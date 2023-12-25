@@ -33,4 +33,6 @@ To kick off this project, you can start with the following files:
 
 ## What else you need to know about this project
 
-Good luck and have fun building this project!
+We recommend overwriting this `README.md` file with your own. To help you get started, we've provided [a template `README-template.md`](./README-template.md).
+
+You have the admin access to this repository. You can push your code to this repository, or transfer this repository to your own GitHub account.
