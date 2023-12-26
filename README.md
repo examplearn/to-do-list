@@ -2,8 +2,7 @@
 
 ## Description
 
-You will be build a classic to-do list application inspired by https://todomvc.com/
-in this project. This application will allow users to add and delete tasks. The application will also allow users to mark tasks as complete, and track tasks in different ways. The application will be responsive and work on mobile devices.
+You will build a classic to-do list application inspired by https://todomvc.com/ in this project. This application will allow users to add and delete tasks. The application will also allow users to mark tasks as complete, and track tasks in different ways. The application will be responsive and work on mobile devices.
 
 <img src="./demo/demo-1.png" width="500" />
 
